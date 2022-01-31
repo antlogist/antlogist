@@ -1,5 +1,5 @@
 ### Hi there, I'm Anton Podlesnyy! 👋
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antlogist&layout=compact)](https://github.com/antlogist/)
 - 🔭 I’m currently working on Mnemonica Project
 - 🌱 I’m currently learning Laravel
 - 👯 I’m looking to collaborate on Vanilla JavaScript, Vue.js, WordPress, Laravel projects
