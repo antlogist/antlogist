@@ -8,4 +8,4 @@
 - 📫 How to reach me: [podlesnyy.ru](https://podlesnyy.ru/), [vk](https://vk.com/antlogist)
 - 😄 Pronouns: He/His
 <!--- ⚡ Fun fact: ...-->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antlogist)](https://github.com/antlogist/)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antlogist)](https://github.com/antlogist/) -->
